@@ -1,9 +1,1 @@
-# thesahilsomani.github.io
-
-<html>
- <head>
- </head>
- <body>
-   <h1>Hello World<h1>
- </body>
-</html>
+This is the readme file for my github.io page
