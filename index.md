@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <aside markdown="1">
 <title>Home</title>
 </aside>
