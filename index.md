@@ -1,4 +1,9 @@
-<title>HTML Elements Reference</title>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Elements Reference</title>
+</head>
+
 
 Sahil Somani's Website
 ======================
