@@ -1,4 +1,4 @@
-% Home
+<title>HTML Elements Reference</title>
 
 Sahil Somani's Website
 ======================
