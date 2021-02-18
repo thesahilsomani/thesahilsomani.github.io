@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Home</title>
-</head>
+<aside markdown="1">
+
+</aside>
 
 
 Sahil Somani's Website
