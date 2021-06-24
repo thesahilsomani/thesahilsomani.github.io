@@ -10,9 +10,7 @@ function setup()
     {
         for(j = 0; j < 19; j++)
         {
-            setTimeout(function(){}, j*1000);
             drawNode(10*j + 10, 10*i + 10);
-            //setInterval(function(){ drawNode(100, 100); }, 500);
         }
     }
 }
